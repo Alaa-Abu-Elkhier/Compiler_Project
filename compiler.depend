@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1545541216 source:/home/alaa/Desktop/compiler/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<stdlib.h>
+
